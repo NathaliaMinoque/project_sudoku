@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\bin\Debug\SudokuWeekN.exe.config
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\bin\Debug\SudokuWeekN.exe
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\bin\Debug\SudokuWeekN.pdb
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.Properties.Resources.resources
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.exe
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.pdb
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.FormOpening.resources
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.FormGame.resources
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.FormCongrats.resources
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.FormLevel.resources
+C:\Users\User\Source\Repos\ProjectSAAWeekN\SudokuWeekN\SudokuWeekN\obj\Debug\SudokuWeekN.FormRules.resources
